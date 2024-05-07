@@ -1,0 +1,14 @@
+mullvad-vpn-bin
+tor-browser-bin
+ani-cli
+snapd
+mullvad-browser-bin
+ungoogled-chromium-bin
+betterlockscreen
+yt-dlp-git
+schildichat-desktop-bin
+discord-chat-exporter-cli
+threema-desktop
+packetttracer
+trufflehog
+p7zip-gui
