@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "'FiraMono Nerd Font', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "cSpell.userWords": [
+        "allcomments",
+        "Censys",
+        "nacl",
+        "tweetnacl"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vscord.status.details.text.debugging": "",
+    "vscord.status.details.text.editing": "",
+    "vscord.status.details.text.notInFile": "lol",
+    "vscord.status.details.text.noWorkSpaceText": "",
+    "vscord.status.state.text.debugging": "",
+    "vscord.status.state.text.editing": "{LANG}",
+    "vscord.status.state.text.viewing": "",
+    "vscord.status.image.small.editing.text": "",
+    "vscord.status.image.small.notInFile.text": "ACAB",
+    "vscord.status.image.small.viewing.text": "",
+    "rust-analyzer.cargo.buildScripts.overrideCommand": null,
+    "workbench.activityBar.location": "bottom",
+    "window.customTitleBarVisibility": "auto"
+}
